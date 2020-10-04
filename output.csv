@@ -1,0 +1,504 @@
+Subject,Course,Room,Class Day(s),Class Time,Professor,Duration
+ACC, 66000-1,West Bldg W503,W,1:00 PM,Zhao Yan Ying,200 mins
+ACC, 77700-1,West Bldg W503,MF,5:00 PM,Chang Philip,75 mins
+ACCP, 37100-1,North Bldg 531,M,2:00 PM,Li John Qiang,200 mins
+ACCP, 37100-2,North Bldg 531,W,2:00 PM,Rampulla Renee,200 mins
+ACCP, 49000-1,North Bldg 531,TTH,8:00 AM,Yin Yuan,100 mins
+ACSK, 6500-1,North Bldg 1516,T,8:00 AM,Martin Patricia,200 mins
+ACSK, 6500-2,North Bldg 1516,W,12:00 PM,Liggins Fredericka,200 mins
+AFPRL, 20100-1,West Bldg W113,TH,8:00 AM,Lima Lazaro,200 mins
+AFPRL, 29001-1,North Bldg C108,TF,1:00 PM,Ramlal Derek,75 mins
+AFPRL, 29003-1,North Bldg 404,W,8:00 AM,Ramlal Derek,150 mins
+AFPRL, 38400-1,West Bldg W113,T,5:00 PM,Lima Lazaro,200 mins
+AFPRL, 39030-1,North Bldg 404,T,1:00 PM,Hampton Barbara,200 mins
+ANTH, 70256-1,North Bldg 705,T,8:00 AM,Parry William J,200 mins
+ANTH, 70300-1,North Bldg 705,WF,5:00 PM,Baden Andrea,100 mins
+ANTH, 72200-1,North Bldg 717,TTH,5:00 PM,Gilbert Christopher Charles,75 mins
+ANTH, 72551-1,North Bldg 730,MF,6:00 PM,Coleman Leo C,75 mins
+ANTH, 75400-1,North Bldg 705,F,8:00 AM,Coleman Leo C,150 mins
+ANTH, 77153-1,North Bldg 730,WF,8:00 AM,Baden Andrea,75 mins
+ANTH, 79101-1,North Bldg 717,MW,8:00 AM,Gilbert Christopher Charles,75 mins
+ANTH, 79102-1,North Bldg 705,M,5:00 PM,Soler Angela,150 mins
+ANTHP, 10100-1,West Bldg W415,WF,8:00 AM,Soler Angela,75 mins
+ANTHP, 10100-2,North Bldg 730,TTH,10:00 AM,Gilbert Christopher Charles,75 mins
+ANTHP, 10100-3,North Bldg 717,TF,12:00 PM,Gilbert Christopher Charles,75 mins
+ANTHP, 10100-4,North Bldg 712,MW,12:00 PM,Gilbert Christopher Charles,75 mins
+ANTHP, 10100-5,North Bldg 1036,TF,10:00 AM,Parks Ashley Nicole,75 mins
+ANTHP, 10500-1,North Bldg 712,MTH,8:00 AM,Westphal Darice Rae,100 mins
+ANTHP, 10500-2,West Bldg W415,MW,11:00 AM,Parks Ashley Nicole,100 mins
+ANTHP, 10500-3,North Bldg 1036,MTH,10:00 AM,Cassalett Santiago,100 mins
+ANTHP, 30200-1,North Bldg 730,T,1:00 PM,Westphal Darice Rae,200 mins
+ANTHP, 30600-1,North Bldg 1036,TTH,12:00 PM,Soler Angela,75 mins
+ANTHP, 40101-1,North Bldg 730,MW,10:00 AM,Westphal Darice Rae,75 mins
+ANTHP, 40150-1,North Bldg 712,MTH,2:00 PM,Soler Angela,100 mins
+ANTHP, 40177-1,North Bldg 712,TTH,5:00 PM,Westphal Darice Rae,100 mins
+ARB, 15000-1,West Bldg W413,M,5:00 PM,Brown Deeadra Ann,150 mins
+ARB, 25000-1,West Bldg W610,TTH,8:00 AM,Brown Deeadra Ann,75 mins
+ARB, 40100-1,West Bldg W412,MW,8:00 AM,Brown Deeadra Ann,75 mins
+ARTCR, 22100-1,North Bldg 11072,WF,8:00 AM,Leist Reiner,100 mins
+ARTCR, 22100-2,North Bldg 11072,TF,10:00 AM,Burnes Aisha Khaiilah,100 mins
+ARTCR, 22500-1,North Bldg 11072,WF,1:00 PM,Carreiro Joel,75 mins
+ARTCR, 22500-2,North Bldg 11005,MTH,1:00 PM,Leist Reiner,75 mins
+ARTCR, 22500-3,North Bldg 11005,MF,4:00 PM,Sanchez Juan,75 mins
+ARTCR, 23500-1,North Bldg 11003,M,2:00 PM,Carreiro Joel,200 mins
+ARTCR, 23500-2,North Bldg 11034A,W,1:00 PM,Jaudon Valerie,200 mins
+ARTCR, 25100-1,North Bldg 1600,MW,1:00 PM,Wood Brian W,75 mins
+ARTCR, 25100-2,North Bldg 11072,MTH,3:00 PM,Leist Reiner,75 mins
+ARTCR, 25700-1,North Bldg 11005,TTH,8:00 AM,Sanchez Juan,75 mins
+ARTCR, 27100-1,North Bldg 11083,TTH,4:00 PM,Jaudon Valerie,100 mins
+ARTCR, 27100-2,North Bldg 1600,WF,3:00 PM,Carreiro Joel,100 mins
+ARTCR, 29000-1,North Bldg 11003,T,1:00 PM,Leist Reiner,200 mins
+ARTCR, 29000-2,North Bldg 1600,TH,3:00 PM,Burnes Aisha Khaiilah,200 mins
+ARTCR, 32200-1,North Bldg 11003,WF,1:00 PM,Leist Reiner,75 mins
+ARTCR, 75149-1,North Bldg 1600,F,8:00 AM,Carreiro Joel,200 mins
+ARTCR, 75165-1,North Bldg 11072,WF,5:00 PM,Leist Reiner,75 mins
+ARTCR, 75181-1,North Bldg 11083,TF,1:00 PM,Burnes Aisha Khaiilah,100 mins
+ARTCR, 75182-1,North Bldg 11005,F,6:00 PM,Carreiro Joel,200 mins
+ARTH, 11100-1,North Bldg 1527,W,5:00 PM,Pelizzari Maria A.,150 mins
+ARTH, 11100-2,West Bldg W714,M,5:00 PM,Dey Hendrik William,150 mins
+ARTH, 11100-3,North Bldg 1527,T,8:00 PM,Jaskey Jennifer Marie,150 mins
+ARTH, 11100-4,North Bldg 1527,TH,5:00 PM,Braun Emily F.,150 mins
+ARTH, 11100-5,North Bldg 1501,M,5:00 PM,Golan Romy,150 mins
+ARTH, 21500-1,West Bldg W714,W,8:00 AM,Pelizzari Maria A.,150 mins
+ARTH, 22500-1,North Bldg 1503,F,5:00 PM,Dey Hendrik William,150 mins
+ARTH, 24000-1,North Bldg 1502,TH,8:00 AM,Avcioglu Nebahat,150 mins
+ARTH, 24500-1,North Bldg 1503,MF,8:00 AM,Zanardi Tara Joy Mona,75 mins
+ARTH, 24900-1,North Bldg 1527,MF,8:00 AM,Braun Emily F.,75 mins
+ARTH, 25100-1,North Bldg 1502,TH,5:00 PM,Pelizzari Maria A.,150 mins
+ARTH, 25500-1,North Bldg 1527,TTH,1:00 PM,Golan Romy,75 mins
+ARTH, 26000-1,West Bldg W615,TH,5:00 PM,Loh Maria Hsiuya,150 mins
+ARTH, 30000-1,North Bldg 1502,TF,11:00 AM,Kent Lori Anne,75 mins
+ARTH, 35120-1,North Bldg 1503,MTH,1:00 PM,Jaskey Jennifer Marie,75 mins
+ARTH, 60200-1,West Bldg W714,MF,8:00 AM,Golan Romy,100 mins
+ARTH, 62100-1,North Bldg 1501,MW,1:00 PM,Pissarro Joachim,100 mins
+ARTH, 63700-1,West Bldg W615,M,8:00 AM,Jaskey Jennifer Marie,150 mins
+ARTH, 73400-1,North Bldg 1602,W,8:00 AM,Braun Emily F.,200 mins
+ARTH, 73400-2,North Bldg 1501,TH,9:00 AM,Jaudon Valerie,200 mins
+ARTH, 73400-3,West Bldg W714,M,11:00 AM,De Duve Thierry,200 mins
+ARTH, 73500-1,North Bldg 1527,WF,11:00 AM,Zanardi Tara Joy Mona,100 mins
+ARTH, 73600-1,North Bldg 1602,TH,12:00 PM,Zanardi Tara Joy Mona,200 mins
+ARTH, 76105-1,North Bldg 1602,F,5:00 PM,De Duve Thierry,200 mins
+ARTH, 76200-1,North Bldg 1527,MF,4:00 PM,Jaudon Valerie,75 mins
+ARTH, 76200-2,West Bldg W714,TF,2:00 PM,De Duve Thierry,75 mins
+ARTH, 73600-1,North Bldg 1602,TH,12:00 PM,Zanardi Tara Joy Mona,200 mins
+ARTH, 76105-1,North Bldg 1602,F,5:00 PM,De Duve Thierry,200 mins
+ARTH, 76200-1,North Bldg 1527,MF,4:00 PM,Jaudon Valerie,75 mins
+ARTH, 76200-2,West Bldg W714,TF,2:00 PM,De Duve Thierry,75 mins
+ARTH, 78008-1,West Bldg W615,W,1:00 PM,Kent Lori Anne,200 mins
+ARTH, 78088-1,West Bldg W714,F,4:00 PM,Pelizzari Maria A.,150 mins
+ARTH, 78099-1,West Bldg W714,T,8:00 PM,Kent Lori Anne,200 mins
+MATH, 10000-1,East Bldg E922,F,1:00 PM,Chess Daniel,200 mins
+MATH, 10100-1,North Bldg 531,F,5:00 PM,Chess Daniel,200 mins
+MATH, 10100-2,West Bldg W605,M,6:00 PM,Bendersky Martin,200 mins
+MATH, 10100-3,North Bldg C004,M,6:00 PM,Shankar Subash,200 mins
+MATH, 10100-4,West Bldg W406,F,6:00 PM,Samra Michael,200 mins
+MATH, 10100-5,West Bldg W208,T,7:00 PM,Bendersky Martin,200 mins
+MATH, 10100-6,West Bldg W205,T,5:00 PM,Shankar Subash,200 mins
+MATH, 10100-7,North Bldg C102,F,7:00 PM,Shneerson Lev,200 mins
+MATH, 10100-8,West Bldg W706,F,8:00 PM,Bendersky Martin,200 mins
+MATH, 10200-1,West Bldg W706,W,5:00 PM,Bendersky Martin,200 mins
+MATH, 10400-1,North Bldg C110,TF,8:00 AM,Bendersky Martin,100 mins
+MATH, 10500-1,North Bldg C114,MW,1:00 PM,Shankar Subash,100 mins
+MATH, 12400-1,North Bldg 1036,M,5:00 PM,Samra Michael,200 mins
+MATH, 12400-1,North Bldg 1036,M,5:00 PM,Samra Michael,200 mins
+MATH, 12550-1,North Bldg C102,M,3:00 PM,Shneerson Lev,200 mins
+MATH, 12550-2,West Bldg W603,F,2:00 PM,Shankar Subash,200 mins
+MATH, 12550-3,West Bldg W509,F,4:00 PM,Thompson Robert D,200 mins
+MATH, 12550-4,West Bldg W505,TH,1:00 PM,Thompson Robert D,200 mins
+MATH, 12550-5,West Bldg W511,W,1:00 PM,Samra Michael,200 mins
+MATH, 12550-6,East Bldg E919,TH,3:00 PM,Samra Michael,200 mins
+MATH, 12550-7,West Bldg W506,F,2:00 PM,Shneerson Lev,200 mins
+MATH, 12550-8,West Bldg W605,W,1:00 PM,Shneerson Lev,200 mins
+MATH, 12550-1,North Bldg C102,M,3:00 PM,Shneerson Lev,200 mins
+MATH, 12550-2,West Bldg W603,F,2:00 PM,Shankar Subash,200 mins
+MATH, 12550-3,West Bldg W509,F,4:00 PM,Thompson Robert D,200 mins
+MATH, 12550-4,West Bldg W505,TH,1:00 PM,Thompson Robert D,200 mins
+MATH, 12550-5,West Bldg W511,W,1:00 PM,Samra Michael,200 mins
+MATH, 12550-6,East Bldg E919,TH,3:00 PM,Samra Michael,200 mins
+MATH, 12550-7,West Bldg W506,F,2:00 PM,Shneerson Lev,200 mins
+MATH, 12550-8,West Bldg W605,W,1:00 PM,Shneerson Lev,200 mins
+MATH, 12550-9,West Bldg W206,W,4:00 PM,Shankar Subash,200 mins
+MATH, 12550-10,West Bldg W205,M,3:00 PM,Thompson Robert D,200 mins
+MATH, 12550-11,North Bldg 118,F,1:00 PM,Bendersky Martin,200 mins
+MATH, 12550-12,ThomHunter 414,T,1:00 PM,Thompson Robert D,200 mins
+MATH, 14000-1,West Bldg W412,TTH,8:00 AM,Chess Daniel,100 mins
+MATH, 14000-2,ThomHunter 412,TTH,12:00 PM,Shneerson Lev,100 mins
+MATH, 15000-1,North Bldg 531,F,8:00 AM,Shankar Subash,200 mins
+MATH, 15000-2,ThomHunter 502,F,9:00 AM,Shneerson Lev,200 mins
+MATH, 15000-3,West Bldg W208,F,10:00 AM,Thompson Robert D,200 mins
+MATH, 15000-4,West Bldg W205,F,8:00 AM,Chess Daniel,200 mins
+MATH, 15000-5,West Bldg W215,T,8:00 AM,Thompson Robert D,200 mins
+MATH, 15000-6,North Bldg 531,W,9:00 AM,Chess Daniel,200 mins
+MATH, 15000-7,North Bldg 1311,T,12:00 PM,Bendersky Martin,200 mins
+MATH, 15500-1,ThomHunter 502,W,8:00 AM,Samra Michael,150 mins
+MATH, 15500-2,ThomHunter 502,W,1:00 PM,Thompson Robert D,150 mins
+MATH, 15500-3,ThomHunter 502,W,5:00 PM,Thompson Robert D,150 mins
+MATH, 15600-1,West Bldg W509,T,6:00 PM,Chess Daniel,150 mins
+MATH, 15600-2,North Bldg 531,TH,5:00 PM,Shankar Subash,150 mins
+MATH, 16000-1,East Bldg E920,TH,8:00 AM,Bendersky Martin,150 mins
+MATH, 16000-2,West Bldg W215,TH,8:00 AM,Thompson Robert D,150 mins
+MATH, 16000-3,East Bldg E921,F,9:00 AM,Samra Michael,150 mins
+MATH, 25000-1,West Bldg WB130,TF,1:00 PM,Samra Michael,75 mins
+MATH, 25400-1,ThomHunter 505,MW,1:00 PM,Bendersky Martin,100 mins
+MATH, 25400-2,North Bldg C100,TTH,4:00 PM,Bendersky Martin,100 mins
+MATH, 25500-1,West Bldg W208,T,3:00 PM,Samra Michael,150 mins
+MATH, 26000-1,West Bldg W206,M,10:00 AM,Thompson Robert D,200 mins
+MATH, 26000-2,West Bldg W706,T,2:00 PM,Shneerson Lev,200 mins
+MATH, 30100-1,West Bldg W605,W,8:00 PM,Shankar Subash,200 mins
+MATH, 31100-1,North Bldg C004,W,5:00 PM,Chess Daniel,150 mins
+MATH, 33100-1,West Bldg W615,MW,8:00 PM,Shneerson Lev,100 mins
+MATH, 35100-1,West Bldg W214,M,7:00 PM,Chess Daniel,150 mins
+MATH, 37200-1,North Bldg 306,T,7:00 PM,Thompson Robert D,200 mins
+MATH, 38500-1,North Bldg C100,TTH,6:00 PM,Shneerson Lev,100 mins
+MATH, 48500-1,North Bldg C100,TTH,8:00 PM,Shneerson Lev,100 mins
+MATH, 60100-1,West Bldg W511,WF,10:00 AM,Bendersky Martin,75 mins
+MATH, 62100-1,West Bldg W605,TH,1:00 PM,Chess Daniel,150 mins
+MATH, 63000-1,West Bldg W116,T,10:00 AM,Chess Daniel,150 mins
+MATH, 63400-1,ThomHunter 414,T,8:00 AM,Shneerson Lev,150 mins
+MATH, 63500-1,West Bldg W117,TTH,8:00 AM,Shankar Subash,100 mins
+MATH, 64100-1,West Bldg W508,TTH,8:00 AM,Samra Michael,100 mins
+MATH, 68500-1,West Bldg W603,T,8:00 PM,Samra Michael,200 mins
+MATH, 72100-1,West Bldg W117,WF,8:00 PM,Thompson Robert D,75 mins
+MATH, 74600-1,West Bldg W406,M,8:00 AM,Chess Daniel,200 mins
+MATH, 77200-1,West Bldg W113,M,8:00 AM,Samra Michael,150 mins
+MATH, 78500-1,North Bldg 118,TH,10:00 AM,Shankar Subash,200 mins
+MATH, 79562-1,West Bldg W615,M,1:00 PM,Chess Daniel,150 mins
+CSCI, 12100-1,North Bldg 1001E,MW,8:00 AM,Shostak Pavel,75 mins
+CSCI, 12100-2,North Bldg 510,MW,11:00 AM,Grezes Felix,75 mins
+CSCI, 12700-1,ThomHunter 502,TF,1:00 PM,Liu Bonan,100 mins
+CSCI, 13200-1,North Bldg C108,M,1:00 PM,Zamfirescu Christina M,150 mins
+CSCI, 13300-1,ThomHunter 414,M,8:00 AM,Zhang Xiaojie,200 mins
+CSCI, 13300-2,West Bldg W412,M,12:00 PM,Foster Brandon,200 mins
+CSCI, 13500-1,ThomHunter 414,TH,12:00 PM,Grezes Felix,150 mins
+CSCI, 13500-2,North Bldg C002,M,8:00 AM,El Sayed Ali,150 mins
+CSCI, 13500-3,ThomHunter 502,TH,8:00 AM,Pajela Gilbert,150 mins
+CSCI, 13500-4,North Bldg C107,T,11:00 AM,Nikolaev Alexey,150 mins
+CSCI, 15000-1,North Bldg 1516,MF,5:00 PM,Lam Alvin,75 mins
+CSCI, 15000-2,West Bldg W412,MW,8:00 PM,Khatchadourian Raffi Takvor,75 mins
+CSCI, 15000-3,North Bldg C108,MF,8:00 PM,Zamfirescu Christina M,75 mins
+CSCI, 15000-4,ThomHunter 408,WF,5:00 PM,Dang Trami K,75 mins
+CSCI, 15000-5,North Bldg 1001C,MF,8:00 PM,Grezes Felix,75 mins
+CSCI, 16000-1,North Bldg C002,TTH,8:00 AM,Grezes Felix,100 mins
+CSCI, 23200-1,North Bldg 118,TF,8:00 AM,Zamfirescu Christina M,75 mins
+CSCI, 23300-1,North Bldg 1001B,WF,8:00 AM,Raja Anita,75 mins
+CSCI, 23500-1,ThomHunter 505,TF,8:00 AM,Zhang Xiaojie,100 mins
+CSCI, 26000-1,West Bldg W116,W,1:00 PM,Khatchadourian Raffi Takvor,200 mins
+CSCI, 26500-1,North Bldg 1001B,TH,3:00 PM,Zamfirescu Christina M,150 mins
+CSCI, 26500-2,North Bldg 510,F,1:00 PM,Vazquez-Abad Felisa Josefina,150 mins
+CSCI, 26700-1,ThomHunter 505,F,4:00 PM,Mock Wendy,150 mins
+CSCI, 33500-1,West Bldg W116,M,5:00 PM,Raja Anita,150 mins
+CSCI, 34000-1,North Bldg 1001B,MF,1:00 PM,Kannan Raman,100 mins
+CSCI, 35300-1,ThomHunter 502,MTH,1:00 PM,Khatchadourian Raffi Takvor,75 mins
+CSCI, 36000-1,North Bldg 118,M,5:00 PM,Oyekoya Oyewole Kayode,150 mins
+CSCI, 37200-1,ThomHunter 505,TH,5:00 PM,Wine Stanley J,150 mins
+CSCI, 39545-1,North Bldg C108,W,5:00 PM,Pajela Gilbert,200 mins
+CSCI, 39594-1,North Bldg 510,MF,8:00 AM,Kannan Raman,100 mins
+CSCI, 39596-1,North Bldg C107,MTH,2:00 PM,Canizales Jaime,100 mins
+CSCI, 39597-1,North Bldg 118,MW,2:00 PM,Wine Stanley J,75 mins
+CSCI, 39598-1,ThomHunter 502,M,4:00 PM,Mneimneh Saadeddine,150 mins
+CSCI, 41500-1,ThomHunter 408,TH,2:00 PM,Shen Xiaoke,200 mins
+CSCI, 43500-1,ThomHunter 408,F,12:00 PM,Dey Soumik,200 mins
+CSCI, 43500-2,North Bldg 118,W,8:00 AM,Zamansky Michael,200 mins
+CSCI, 49355-1,North Bldg 1516,T,1:00 PM,Raja Anita,200 mins
+CSCI, 49362-1,North Bldg 510,TTH,5:00 PM,Dang Trami K,75 mins
+CSCI, 49376-1,North Bldg C108,TTH,8:00 AM,Vazquez-Abad Felisa Josefina,75 mins
+CSCI, 49378-1,ThomHunter 505,T,2:00 PM,Zamfirescu Christina M,200 mins
+CSCI, 49379-1,North Bldg 118,WF,5:00 PM,Grezes Felix,75 mins
+CSCI, 49380-1,North Bldg C002,MF,5:00 PM,Makki Mahdi S,100 mins
+CSCI, 49900-1,North Bldg C109,MW,4:00 PM,Xie Lei,100 mins
+CSCI, 49900-1,North Bldg C109,MW,4:00 PM,Xie Lei,100 mins
+CSCI, 70500-1,West Bldg W116,MF,9:00 AM,Canizales Jaime,75 mins
+CSCI, 72200-1,West Bldg W412,MF,5:00 PM,Khatchadourian Raffi Takvor,75 mins
+CSCI, 74000-1,North Bldg 510,F,4:00 PM,Canizales Jaime,200 mins
+CSCI, 76000-1,North Bldg 1001A,MW,8:00 AM,Mneimneh Saadeddine,75 mins
+CSCI, 79502-1,North Bldg 1001C,TTH,11:00 AM,Vazquez-Abad Felisa Josefina,75 mins
+CSCI, 79526-1,West Bldg W116,TTH,6:00 PM,Maryash Gennadiy,100 mins
+ECO, 29601-1,West Bldg W116,MTH,1:00 PM,Nyman Ingmar,75 mins
+ECO, 30100-1,West Bldg W113,W,1:00 PM,Ghosh Prabuddha,150 mins
+ECO, 31000-1,North Bldg 531,T,2:00 PM,Pollack Arabella Judith Dawn,200 mins
+ECO, 33500-1,West Bldg W415,TF,1:00 PM,Colman Gregory Joseph,100 mins
+ECO, 34100-1,West Bldg W415,WF,8:00 PM,Pollack Arabella Judith Dawn,100 mins
+ECO, 34500-1,West Bldg W415,T,8:00 AM,Colman Gregory Joseph,200 mins
+ENGL, 77050-1,ThomHunter 407,TTH,4:00 PM,Nunez Elizabeth A,100 mins
+ENGL, 77900-1,West Bldg W522,WF,8:00 AM,Shavitz Benjamin,100 mins
+ENGL, 79001-1,North Bldg C103,TTH,4:00 PM,Carey Peter P,100 mins
+ENGL, 79201-1,East Bldg E922,TTH,1:00 PM,Allred Jeffrey B.,75 mins
+GEOG, 10100-1,West Bldg W415,MW,1:00 PM,Gong Hongmian,100 mins
+GEOG, 10100-1,West Bldg W415,MW,1:00 PM,Gong Hongmian,100 mins
+GEOG, 10100-2,North Bldg C002,TTH,1:00 PM,Campos Ramiro,100 mins
+GEOG, 24200-1,North Bldg 1004,M,5:00 PM,Gong Hongmian,150 mins
+GEOG, 25100-1,North Bldg C002,TTH,5:00 PM,Gong Hongmian,75 mins
+GEOG, 27000-1,North Bldg 1022,T,4:00 PM,Grande Anthony,200 mins
+GEOG, 38324-1,North Bldg C002,TTH,8:00 PM,Miyares Ines M,75 mins
+GEOG, 48000-1,North Bldg 1004,TF,10:00 AM,Ibrahim Mohamed B,75 mins
+GEOG, 48000-2,West Bldg W415,MW,3:00 PM,Chatterjee Bipasha,75 mins
+GEOG, 48100-1,North Bldg 1022,WF,4:00 PM,Gong Hongmian,100 mins
+GEOG, 48100-2,West Bldg W415,TTH,3:00 PM,Ibrahim Mohamed B,100 mins
+GEOG, 49000-1,West Bldg W503,MF,12:00 PM,Miyares Ines M,100 mins
+GEOG, 49000-2,North Bldg 1022,MW,12:00 PM,Grande Anthony,100 mins
+GEOG, 70100-1,North Bldg 1004,MW,10:00 AM,Gong Hongmian,75 mins
+GEOG, 70200-1,West Bldg W503,MTH,8:00 AM,Chatterjee Bipasha,75 mins
+GEOG, 71200-1,North Bldg 1022,MW,9:00 AM,Miyares Ines M,100 mins
+BIOL, 21000-1,North Bldg 938,MW,5:00 PM,Eisenstadt Eric,75 mins
+BIOL, 79201-1,North Bldg 926C,TH,5:00 PM,Raps Shirley,200 mins
+COMPL, 32056-1,West Bldg W707B,W,10:00 AM,Calabritto Monica,200 mins
+COMPL, 38085-1,West Bldg W412,TTH,10:00 AM,Brown Deeadra Ann,100 mins
+COMSC, 70000-1,Brook E E102,MW,8:00 AM,Schroeder Antonia,75 mins
+COMSC, 70000-2,Brook W 903,MW,12:00 PM,Hyun Jungmoon,75 mins
+COMSC, 70500-1,Brook E E103,MW,10:00 AM,Schroeder Antonia,75 mins
+COMSC, 70500-2,Brook N N133,TF,11:00 AM,Hyun Jungmoon,75 mins
+COMSC, 70600-1,Brook E E103,TF,8:00 AM,Schroeder Antonia,75 mins
+COMSC, 71100-1,Brook E E103,T,12:00 PM,Welner Rachel Lauren,200 mins
+COMSC, 71200-1,Brook W 902,MTH,1:00 PM,Welner Rachel Lauren,100 mins
+COMSC, 71200-2,Brook N N133,MF,2:00 PM,Eng Nancy,100 mins
+COMSC, 71500-1,Brook E E103,MW,1:00 PM,Silverman Carol Ann,100 mins
+COMSC, 72000-1,Brook E E102,TTH,8:00 AM,Malcolm Taryn Rita,100 mins
+COMSC, 72000-2,Brook E E102,TTH,10:00 AM,Macroy-Higgins Michelle Lee,100 mins
+COMSC, 72400-1,Brook E E102,W,12:00 PM,Eng Nancy,150 mins
+MHC, 10000-1,West Bldg W509A,F,8:00 AM,Jankowski Patrick Campbell,200 mins
+MHC, 10000-2,East Bldg E631,M,9:00 AM,Buonaiuto Frank,200 mins
+MHC, 10000-3,North Bldg C103,F,11:00 AM,Tomasch Sylvia,200 mins
+MHC, 10000-4,North Bldg C103,W,10:00 AM,Gillespie Benjamin Ancel,200 mins
+MHC, 10000-5,East Bldg E631,W,10:00 AM,Jankowski Patrick Campbell,200 mins
+MHC, 20000-1,West Bldg W509A,TH,5:00 PM,Jankowski Patrick Campbell,150 mins
+MHC, 20000-2,North Bldg C103,T,6:00 PM,Neary Janet Eileen,150 mins
+MHC, 20000-3,East Bldg E631,F,8:00 PM,Wheeler Dustin Douglass-Jan,150 mins
+MLS, 45000-1,Brook E E101,M,5:00 PM,Mataprasad Veronica Indira,150 mins
+MLS, 45000-2,Brook E E104,M,8:00 PM,Feratovic Rusmir,150 mins
+MLS, 49000-1,Brook E E101,T,1:00 PM,Labasin Marc V,200 mins
+MLS, 61000-1,Brook W 232,MF,8:00 AM,Mataprasad Veronica Indira,100 mins
+MLS, 63000-1,Brook W 232,T,9:00 AM,McNair Sean A,200 mins
+MLS, 63200-1,Brook W 232,WF,5:00 PM,McNair Sean A,100 mins
+MLS, 63500-1,Brook W 232,TTH,7:00 PM,McNair Sean A,75 mins
+MLS, 64000-1,Brook E E101,TTH,10:00 AM,Feratovic Rusmir,100 mins
+MLS, 64400-1,Brook E E101,W,5:00 PM,Mahajan Muktar,150 mins
+MLS, 64700-1,Brook E E101,M,8:00 AM,Feratovic Rusmir,200 mins
+MLS, 70100-1,Brook E E101,F,8:00 AM,Mahajan Muktar,150 mins
+MLS, 71000-1,Brook E E102,MF,11:00 AM,Mahajan Muktar,100 mins
+MLS, 72000-1,Brook E E104,TTH,10:00 AM,Schreiner Ryan Peter,75 mins
+MLSP, 30000-1,Brook E E016,TF,1:00 PM,Cupiola Richard,100 mins
+MLSP, 30000-2,Brook E E016,MTH,3:00 PM,Cupiola Richard,100 mins
+MLSP, 34900-1,Brook E E106,MTH,1:00 PM,Rodriguez Morales Abigail,75 mins
+MLSP, 34900-2,Brook E E105,MF,4:00 PM,Mahajan Muktar,75 mins
+MLSP, 35100-1,Brook E E101,WF,12:00 PM,Gutala Ramana Venkata,100 mins
+MLSP, 35500-1,North Bldg 1001G,MF,8:00 AM,Gutala Ramana Venkata,75 mins
+MLSP, 36100-1,Brook E E016,TF,8:00 AM,Euler Chad William,100 mins
+MLSP, 41000-1,Brook W 235,TF,1:00 PM,Mahajan Shahana,75 mins
+MLSP, 43000-1,Brook E E106,TF,8:00 AM,Chiriboga Luis,75 mins
+MLSP, 43000-2,Brook W 232,WF,10:00 AM,Mahajan Shahana,75 mins
+MLSP, 45700-1,Brook E E016,MW,10:00 AM,Sabharwal Hemant Kant,100 mins
+SSW, 71700-1,Silberman 220,W,8:00 AM,Boyd Nicole Christine,200 mins
+SSW, 71700-2,Silberman 328,T,10:00 AM,Blackwell Delores,200 mins
+SSW, 71700-3,Silberman 329,T,9:00 AM,Gusberg Jessica N,200 mins
+SSW, 71700-4,Silberman 219,W,8:00 AM,Williams Ovita F,200 mins
+SSW, 71700-5,Silberman 330,TH,11:00 AM,Gusberg Jessica N,200 mins
+SSW, 71700-6,Silberman 215,M,8:00 AM,Morgan Avon,200 mins
+SSW, 76100-1,Silberman 220,W,5:00 PM,McFadden Tiffany,200 mins
+SSW, 76300-1,Silberman 322,TF,1:00 PM,Natchaba Nadjete,75 mins
+SSW, 76700-1,Silberman 218,MF,8:00 AM,Brown-Manning Robyn,75 mins
+SSW, 79653-1,Silberman 326,TF,5:00 PM,Okuda Kanako,75 mins
+STAT, 11300-1,West Bldg W603,MW,1:00 PM,Williams William H,75 mins
+STAT, 11300-2,West Bldg W405,WF,3:00 PM,Williams William H,75 mins
+STAT, 11300-3,West Bldg W609,MTH,2:00 PM,Martinez Vincent Ryan,75 mins
+STAT, 11300-4,West Bldg W507,TTH,4:00 PM,Clarkson Sandra,75 mins
+STAT, 11300-5,West Bldg W507,MW,4:00 PM,Martinez Vincent Ryan,75 mins
+STAT, 11300-6,West Bldg W424,TTH,2:00 PM,Williams William H,75 mins
+STAT, 11300-7,East Bldg E920,TF,4:00 PM,Martinez Vincent Ryan,75 mins
+STAT, 11300-8,West Bldg W506,MW,1:00 PM,Clarkson Sandra,75 mins
+STAT, 21200-1,West Bldg W424,WF,6:00 PM,Williams William H,100 mins
+STAT, 21300-1,North Bldg C004,W,8:00 AM,Martinez Vincent Ryan,200 mins
+STAT, 21300-2,West Bldg W406,T,11:00 AM,Martinez Vincent Ryan,200 mins
+STAT, 21300-3,West Bldg W424,F,10:00 AM,Williams William H,200 mins
+STAT, 21300-4,West Bldg W405,W,8:00 AM,Williams William H,200 mins
+STAT, 21300-5,West Bldg W415,TH,9:00 AM,Martinez Vincent Ryan,200 mins
+STAT, 21300-6,West Bldg W507,TH,9:00 AM,Williams William H,200 mins
+STAT, 21300-7,West Bldg W208,M,8:00 AM,Williams William H,200 mins
+STAT, 21300-8,West Bldg W214,M,8:00 AM,Martinez Vincent Ryan,200 mins
+STAT, 21400-1,ThomHunter 408,M,7:00 PM,Clarkson Sandra,150 mins
+STAT, 21400-2,North Bldg 306,W,6:00 PM,Martinez Vincent Ryan,150 mins
+STAT, 29554-1,ThomHunter 408,MW,8:00 AM,Clarkson Sandra,100 mins
+STAT, 29555-1,East Bldg E921,T,4:00 PM,Williams William H,200 mins
+STAT, 31100-1,West Bldg W609,M,4:00 PM,Williams William H,200 mins
+STAT, 31900-1,East Bldg E921,MW,4:00 PM,Clarkson Sandra,100 mins
+STAT, 61400-1,West Bldg W406,TTH,8:00 PM,Clarkson Sandra,75 mins
+STAT, 70100-1,West Bldg W204,F,4:00 PM,Clarkson Sandra,200 mins
+STAT, 70600-1,West Bldg W507,TF,8:00 PM,Martinez Vincent Ryan,75 mins
+STAT, 71700-1,West Bldg W507,F,8:00 AM,Clarkson Sandra,150 mins
+STAT, 72401-1,West Bldg W214,WF,12:00 PM,Martinez Vincent Ryan,75 mins
+STAT, 73900-1,North Bldg C114,T,9:00 AM,Williams William H,150 mins
+STAT, 75400-1,West Bldg W405,TTH,10:00 AM,Clarkson Sandra,75 mins
+STAT, 76100-1,East Bldg E920,TF,1:00 PM,Clarkson Sandra,100 mins
+SW, 20100-1,Silberman 324,MTH,10:00 AM,Dempsey Patricia,100 mins
+SW, 31000-1,West Bldg W424,F,8:00 PM,Olatunji Senemeht Eakhu,200 mins
+SW, 32000-1,Silberman 216,MTH,12:00 PM,Brown-Manning Robyn,75 mins
+SW, 33000-1,Silberman 218,W,1:00 PM,Younger Tiffany,200 mins
+SW, 36000-1,Silberman 322,MTH,5:00 PM,Trachtenberg Judith,100 mins
+SW, 37000-1,ThomHunter 505,W,5:00 PM,Earner Ilze,200 mins
+SW, 41000-1,Silberman 216,T,5:00 PM,Anand Akanksha,150 mins
+SW, 42000-1,Silberman 324,T,1:00 PM,Ortega-Williams Anna,200 mins
+SW, 43000-1,Silberman 329,W,8:00 PM,Ortega-Williams Anna,200 mins
+SW, 43000-1,Silberman 329,W,8:00 PM,Ortega-Williams Anna,200 mins
+SW, 44000-1,Silberman 212,M,7:00 PM,Ortega-Williams Anna,200 mins
+SW, 44000-1,Silberman 212,M,7:00 PM,Ortega-Williams Anna,200 mins
+SW, 45000-1,Silberman 216,W,8:00 AM,Younger Tiffany,150 mins
+THC, 70200-1,Baker BTB210,WF,8:00 AM,Kalb Jonathan,100 mins
+THC, 73100-1,Baker BTB260,MW,5:00 PM,Chang Dong Shin,100 mins
+THC, 73300-1,Baker BTB220,MTH,8:00 PM,Scarfuto Christine Marie,75 mins
+THC, 73500-1,Baker BTB260,F,8:00 AM,Orenstein Claudia,150 mins
+THC, 75100-1,Baker BTB210,WF,1:00 PM,Orenstein Claudia,75 mins
+THC, 76072-1,Baker BTB220,TTH,5:00 PM,Kalb Jonathan,100 mins
+THC, 76079-1,Baker BTB210,F,7:00 PM,Chang Dong Shin,150 mins
+THC, 79900-1,Baker BTB210,MTH,8:00 AM,Orenstein Claudia,100 mins
+THEA, 10100-1,Baker BTB320,M,8:00 AM,Felner Mira,200 mins
+THEA, 10100-2,Baker BTB260,W,11:00 AM,Moore Benjamin J,200 mins
+THEA, 10100-3,West Bldg W215,W,9:00 AM,Rogals Frederick Alexander,200 mins
+THEA, 10100-4,Baker BTB230,TH,8:00 AM,Kalb Jonathan,200 mins
+THEA, 16100-1,North Bldg 537,W,1:00 PM,Kalb Jonathan,200 mins
+THEA, 21100-1,Baker BTB220,F,8:00 AM,Calderon Ian,200 mins
+THEA, 21200-1,West Bldg W714,T,8:00 AM,Ceesay Nemuna Rose,150 mins
+THEA, 21300-1,West Bldg W215,TH,3:00 PM,Krumholz Brad Mitchell,200 mins
+THEA, 25100-1,Baker BTB680,W,5:00 PM,Orenstein Claudia,200 mins
+THEA, 25350-1,Baker BTB420,T,11:00 AM,Ceesay Nemuna Rose,150 mins
+THEA, 26100-1,Baker BTB320,TTH,10:00 AM,Chatterjee Deepsikha,75 mins
+THEA, 26100-2,Baker BTB230,MF,9:00 AM,Rosas Adrian Pio,75 mins
+THEA, 26200-1,Baker BTB620,T,5:00 PM,Grodman Asher Chazen,200 mins
+THEA, 26300-1,North Bldg 1001F,MTH,4:00 PM,Cusick Timothy P,75 mins
+THEA, 27500-1,Baker BTB220,TTH,8:00 AM,Bosch Barbara,75 mins
+THEA, 28100-1,Baker BTB320,F,8:00 AM,Moore Benjamin J,150 mins
+THEA, 29704-1,Baker BTB420,F,12:00 PM,Mosher Gregory Dean,150 mins
+THEA, 29787-1,Baker BTB220,WF,5:00 PM,Rosas Adrian Pio,75 mins
+THEA, 32100-1,North Bldg 537,F,1:00 PM,Holder Lateefah O,200 mins
+THEA, 36500-1,Baker BTB680,MF,9:00 AM,Mosher Gregory Dean,75 mins
+THEA, 37600-1,Baker BTB240,TF,1:00 PM,Chang Dong Shin,100 mins
+THEA, 39704-1,Baker BTB620,WF,5:00 PM,Krumholz Brad Mitchell,75 mins
+THEA, 39712-1,Baker BTB680,F,2:00 PM,Rogals Frederick Alexander,200 mins
+THEA, 39721-1,North Bldg 1001F,MTH,8:00 AM,Grodman Asher Chazen,75 mins
+THEA, 39723-1,Baker BTB460,MTH,4:00 PM,Mosher Gregory Dean,75 mins
+THEA, 39731-1,Baker BTB460,TTH,11:00 AM,Cusick Timothy P,75 mins
+THEA, 39767-1,Baker BTB680,TH,1:00 PM,Williams Adrienne D,200 mins
+THEA, 39795-1,Baker BTB680,MTH,7:00 PM,Kalb Jonathan,100 mins
+THEA, 49900-1,Baker BTB620,W,8:00 AM,Romano Peter Joseph,200 mins
+URBG, 70100-1,West Bldg W509A,T,1:00 PM,Johnson Victoria Stephens,200 mins
+URBG, 70200-1,West Bldg W1639,MF,5:00 PM,Shipp Sigmund,100 mins
+URBG, 70600-1,West Bldg W606,MF,10:00 AM,Viteritti Joseph,100 mins
+URBG, 71000-1,West Bldg W1640,TTH,8:00 AM,Gross Jill Simone,75 mins
+URBG, 71300-1,West Bldg W509A,M,8:00 AM,Alcabes Philip,150 mins
+URBG, 72700-1,West Bldg W606,W,1:00 PM,Lasner Matthew,200 mins
+URBG, 74200-1,West Bldg W509A,TTH,8:00 PM,Moreno Karina,100 mins
+URBG, 75600-1,West Bldg W1639,F,8:00 AM,Johnson Victoria Stephens,150 mins
+URBG, 75800-1,West Bldg W509A,TH,9:00 AM,Johnson Victoria Stephens,200 mins
+URBG, 78740-1,West Bldg W606,T,1:00 PM,Chin John J,150 mins
+URBG, 78795-1,West Bldg W1640,TH,1:00 PM,Tovar Restrepo Marcela,150 mins
+URBG, 79000-1,West Bldg W1640,TH,5:00 PM,Alcabes Philip,150 mins
+URBG, 79000-2,West Bldg W509A,W,8:00 PM,Wolf-Powers Anna Laura Elizabeth,150 mins
+URBG, 79200-1,West Bldg W509A,F,5:00 PM,Chin John J,150 mins
+URBP, 70000-1,East Bldg E819,TF,1:00 PM,Blessing Ralph Gerhard,75 mins
+URBP, 70100-1,East Bldg E819,MW,8:00 AM,Blessing Ralph Gerhard,75 mins
+URBP, 71900-1,West Bldg W606,MTH,5:00 PM,Rojas De Leon Deborah,75 mins
+URBP, 72000-1,West Bldg W611,WF,10:00 AM,Blessing Ralph Gerhard,100 mins
+URBP, 73200-1,North Bldg C109,WF,7:00 PM,Gutfreund Owen,75 mins
+URBP, 73700-1,North Bldg C109,TF,8:00 AM,Rubin James C,100 mins
+URBP, 78717-1,West Bldg W1639,TF,1:00 PM,Gutfreund Owen,100 mins
+URBS, 10100-1,West Bldg W1639,W,8:00 AM,Pollans Lily Baum,150 mins
+URBS, 10100-2,West Bldg W1640,T,11:00 AM,Shipp Sigmund,150 mins
+URBS, 10200-1,West Bldg W1640,MF,1:00 PM,Pollans Lily Baum,100 mins
+URBS, 20100-1,West Bldg W1639,W,5:00 PM,Johnson Victoria Stephens,200 mins
+URBS, 20300-1,West Bldg W1640,MW,3:00 PM,Pollans Lily Baum,75 mins
+URBS, 31000-1,North Bldg C114,TH,12:00 PM,Shipp Sigmund,200 mins
+URBS, 40354-1,West Bldg W116,M,8:00 PM,Shipp Sigmund,200 mins
+URBS, 40395-1,West Bldg W1640,WF,8:00 AM,Shipp Sigmund,75 mins
+SPAN, 10100-1,West Bldg W707C,TF,1:00 PM,Conchado Diana,100 mins
+SPAN, 20100-1,West Bldg W408,F,1:00 PM,Fischer Maria L,200 mins
+SPAN, 21100-1,West Bldg W408,W,5:00 PM,Conchado Diana,150 mins
+SPAN, 22100-1,West Bldg W408,TF,5:00 PM,Costa Marithelma,100 mins
+SPAN, 36700-1,West Bldg W707B,T,1:00 PM,Chace William M,150 mins
+SPAN, 49100-1,West Bldg W504,F,8:00 AM,Fischer Maria L,200 mins
+SPAN, 76800-1,North Bldg 1001F,TF,9:00 AM,Costa Marithelma,75 mins
+SPAN, 79167-1,West Bldg W1344,MF,8:00 AM,Chace William M,75 mins
+PT, 70400-1,Brook E E003,W,8:00 AM,Collins Cristiana,150 mins
+PT, 80300-1,Brook E E003,TF,1:00 PM,Collins Cristiana,75 mins
+PT, 81500-1,Brook E E003,TH,8:00 AM,Karpatkin Herbert,150 mins
+PHILO, 10400-1,West Bldg W412,TTH,5:00 PM,Keating Laura,75 mins
+PHILO, 10600-1,ThomHunter 407,MW,9:00 AM,Kirkland Frank,75 mins
+PHILO, 25200-1,ThomHunter 407,MW,6:00 PM,Press Gerald Alan,75 mins
+PHILO, 26800-1,West Bldg W506,TH,1:00 PM,Kirkland Frank,150 mins
+PHILO, 37200-1,West Bldg W506,WF,8:00 AM,Gould Carol C.,75 mins
+PHILO, 49201-1,North Bldg C002,MW,1:00 PM,Harris Daniel,100 mins
+PHILO, 49201-2,ThomHunter 407,WF,1:00 PM,Gould Carol C.,100 mins
+PHILO, 49201-3,West Bldg W412,TF,1:00 PM,Kirkland Frank,100 mins
+PHILO, 49201-4,ThomHunter 407,MW,3:00 PM,Harris Daniel,100 mins
+PHILO, 49201-5,West Bldg W506,TTH,4:00 PM,Ross Steven,100 mins
+PHILO, 49201-6,West Bldg W506,MW,3:00 PM,Zapata Fernando Raffaele,100 mins
+PHILO, 49202-1,West Bldg W506,MTH,8:00 AM,Ross Steven,75 mins
+PHILO, 49202-2,West Bldg W506,TTH,10:00 AM,Press Gerald Alan,75 mins
+PHILO, 49202-3,ThomHunter 407,TF,9:00 AM,Keating Laura,75 mins
+PHILO, 49203-1,ThomHunter 407,TH,8:00 AM,Garson Justin Richard,150 mins
+PHILO, 49203-2,North Bldg C002,F,12:00 PM,Shapshay Sandra Lynne,150 mins
+PHILO, 49204-1,West Bldg W412,WF,10:00 AM,Gould Carol C.,75 mins
+PHILO, 49205-1,North Bldg C002,WF,9:00 AM,Garson Justin Richard,75 mins
+PHILO, 49206-1,ThomHunter 407,TF,7:00 PM,Dahbour Omar,75 mins
+PHYS, 10000-1,North Bldg 1311,WF,5:00 PM,Bergou Janos,100 mins
+PHYS, 10100-1,North Bldg 1311,MF,8:00 AM,Xu Min,100 mins
+PHYS, 11000-1,North Bldg 1239,TTH,12:00 PM,Xu Min,100 mins
+PHYS, 11000-2,North Bldg M157,WF,9:00 AM,Padilla Angela A,100 mins
+PHYS, 12000-1,North Bldg C005,M,11:00 AM,Gao Bo,150 mins
+PHYS, 12100-1,North Bldg 1311,MF,1:00 PM,Dang Trami K,75 mins
+PHYS, 22100-1,North Bldg C005,M,5:00 PM,Greenbaum Steven,150 mins
+PHYS, 22200-1,North Bldg C005,WF,11:00 AM,Zelenova Yelena,100 mins
+PHYS, 30100-1,North Bldg 1311,MTH,6:00 PM,Ren Yuhang,75 mins
+PHYS, 33400-1,North Bldg 510,TTH,9:00 AM,Hillery Mark,75 mins
+PHYS, 39900-1,North Bldg 1239,W,12:00 PM,Chu Y.H.,200 mins
+PHYS, 42500-1,North Bldg M157,TH,5:00 PM,Hillery Mark,200 mins
+PHYS, 45301-1,North Bldg M157,T,8:00 AM,Abranyos Yonatan,150 mins
+PHYS, 45302-1,North Bldg 1239,M,1:00 PM,Zhemchuzhna Liubov,200 mins
+PHYS, 45303-1,North Bldg C005,WF,1:00 PM,Ren Yuhang,100 mins
+PHYS, 45401-1,North Bldg M157,MW,1:00 PM,Lim Hyungsik,100 mins
+PHYS, 45402-1,West Bldg W511,TH,8:00 AM,Padilla Angela A,200 mins
+PHYS, 45403-1,West Bldg W511,T,1:00 PM,Gao Bo,200 mins
+PHYS, 60500-1,North Bldg C005,T,4:00 PM,Greenbaum Steven,150 mins
+PHYS, 62500-1,North Bldg 1239,W,5:00 PM,Greenbaum Steven,150 mins
+MUSED, 67800-1,North Bldg 407,T,5:00 PM,Bobetsky Victor V,200 mins
+MUSHL, 10100-1,North Bldg 506,MTH,8:00 AM,Cabrini Michele,75 mins
+MUSHL, 10700-1,North Bldg 405,F,8:00 AM,Thomas Samuel Reuben,200 mins
+MUSHL, 10700-2,North Bldg 404,F,9:00 AM,Hampton Barbara,200 mins
+MUSHL, 20100-1,North Bldg 407,MTH,12:00 PM,Coppola Catherine,75 mins
+MUSHL, 20100-2,North Bldg 407,TF,11:00 AM,Coppola Catherine,75 mins
+MUSHL, 20500-1,North Bldg 405,M,12:00 PM,Cabrini Michele,150 mins
+MUSHL, 21700-1,North Bldg 406,W,8:00 AM,Bengloff Richard,200 mins
+MUSHL, 21700-2,North Bldg 407,W,8:00 AM,Thomas Samuel Reuben,200 mins
+MUSHL, 22000-1,North Bldg 404,W,5:00 PM,Thomas Samuel Reuben,150 mins
+MUSHL, 24500-1,North Bldg 404,TH,4:00 PM,Bengloff Richard,150 mins
+MUSHL, 26132-1,North Bldg 407,MTH,8:00 AM,Bengloff Richard,75 mins
+MUSHL, 26193-1,North Bldg 506,W,11:00 AM,Hampton Barbara,200 mins
+MUSHL, 30500-1,North Bldg 404,TH,8:00 AM,Coppola Catherine,150 mins
+MUSPF, 11100-1,North Bldg 406,MTH,5:00 PM,Keberle Ryan D.,75 mins
+MUSPF, 21200-1,North Bldg 406,MTH,1:00 PM,Keberle Ryan D.,100 mins
+MUSPF, 21300-1,North Bldg 431,TTH,1:00 PM,Jackson Ashley J,75 mins
+MUSPF, 21300-2,North Bldg 407,MW,4:00 PM,Rezenda Lopes Joao Luiz,75 mins
+MUSPF, 22100-1,North Bldg 416,TF,1:00 PM,Fulmer David Charles,75 mins
+MUSPF, 22100-2,North Bldg 431,TF,3:00 PM,Jackson Ashley J,75 mins
+MUSPF, 23100-1,North Bldg 407,WF,1:00 PM,Rezenda Lopes Joao Luiz,100 mins
+MUSPF, 24900-1,North Bldg 431,F,5:00 PM,Keberle Ryan D.,200 mins
+MUSPF, 25000-1,North Bldg 635,WF,1:00 PM,Burleson Geoffrey,75 mins
+MUSPF, 25100-1,North Bldg 635,TH,8:00 AM,Rezenda Lopes Joao Luiz,150 mins
+MUSPF, 35300-1,North Bldg 431,TH,5:00 PM,Rezenda Lopes Joao Luiz,150 mins
+MUSPF, 35500-1,North Bldg 416,TH,8:00 AM,Jackson Ashley J,200 mins
+MUSPF, 36503-1,North Bldg 118,T,6:00 PM,Rezenda Lopes Joao Luiz,200 mins
+MUSPF, 36904-1,North Bldg 635,F,6:00 PM,Jackson Ashley J,200 mins
+MUSPF, 40100-1,North Bldg 416,MF,10:00 AM,Burleson Geoffrey,75 mins
+MUSPF, 40200-1,North Bldg 431,WF,8:00 AM,Keberle Ryan D.,100 mins
+MUSPF, 43100-1,North Bldg 406,T,2:00 PM,Burleson Geoffrey,200 mins
+MUSPF, 43100-2,North Bldg 404,M,2:00 PM,Burleson Geoffrey,200 mins
+MUSTH, 10100-1,North Bldg 416,MW,12:00 PM,Jackson Ashley J,75 mins
+MUSTH, 22000-1,North Bldg 405,MW,8:00 AM,Farrin Suzanne Marie,100 mins
+MUSTH, 23000-1,North Bldg 416,TH,3:00 PM,Jackson Ashley J,200 mins
+MUSTH, 23000-2,North Bldg 416,T,4:00 PM,Farrin Suzanne Marie,200 mins
+MUSTH, 32000-1,North Bldg 406,MF,8:00 AM,Fulmer David Charles,75 mins
+MUSTH, 33000-1,North Bldg 431,W,12:00 PM,Farrin Suzanne Marie,200 mins
+MUSTH, 33000-2,North Bldg 405,TH,11:00 AM,Mahoney Shafer,200 mins
+MUSTH, 36169-1,North Bldg 406,F,1:00 PM,Graff Steven L,200 mins
+MUSTH, 37000-1,North Bldg 406,WF,6:00 PM,Farrin Suzanne Marie,75 mins
+MUSTH, 38500-1,North Bldg 431,TTH,9:00 AM,Keberle Ryan D.,75 mins
+MUSTH, 38500-2,North Bldg 405,TTH,8:00 AM,Farrin Suzanne Marie,75 mins
+MUSTH, 49100-1,North Bldg 405,T,11:00 AM,Mahoney Shafer,200 mins
+MUSTH, 49200-1,North Bldg 416,MTH,8:00 PM,Fulmer David Charles,100 mins
