@@ -9,9 +9,11 @@ Manal Zneit – implemented the algorithm and the code that solves the course sc
 Jonathan Kelaty – devised a large real-world dataset drawn from Hunter College course offerings. He also implemented the visualization tool to demo the algorithm.
 
 ## Implementation
-The algorithm implemented is backtracking search with inference. For the large dataset, an interative approach was introduced.
-The consistent schedules that were the best candidates to satisfy most of the soft constraints were clustered in the first few iterations of the search.
-Random-restart hill climbing which is a local search algorithm was also implemented to randomize the input and avoid local minima. 
+* The algorithm implemented is backtracking search with inference. For the large dataset, an interative approach was introduced.
+
+* The consistent schedules that were the best candidates to satisfy most of the soft constraints were clustered in the first few iterations of the search.
+
+* Random-restart hill climbing which is a local search algorithm was also implemented to randomize the input and avoid local minima. 
 
 ## Results
 
