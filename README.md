@@ -1,1 +1,1 @@
-# course-scheduling-project
+# Course Scheduling Project
