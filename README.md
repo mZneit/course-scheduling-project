@@ -13,5 +13,7 @@ The algorithm implemented is backtracking search with inference. For the large d
 The consistent schedules that were the best candidates to satisfy most of the soft constraints were clustered in the first few iterations of the search.
 Random-restart hill climbing which is a local search algorithm was also implemented to randomize the input and avoid local minima. 
 
+## Results
+
 The algorithm generated a consistent schedule with maximized evaluation for a small and large datasets. The CSP satisfied all the proposed hard constraints with a delicate 
 consideration of the soft constraints in an integrated use of algorithms to achieve the results in a feasible amount of time.
